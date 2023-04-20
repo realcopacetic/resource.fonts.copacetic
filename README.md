@@ -2,6 +2,10 @@
 
 Newly packed font files combining open-source typefaces [Inter](https://github.com/rsms/inter) for western character sets (Latin, Greek, etc) and [Noto Sans CJK](https://github.com/notofonts/noto-cjk) for CJK characters.
 
+### Changelog
+- **1.0.0** 
+ - Initial release.
+
 ### License
 ---
 Inter, Noto Sans CJK and this Font Software are all licensed under the SIL Open Font License, Version 1.1.
