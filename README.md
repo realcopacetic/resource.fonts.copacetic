@@ -4,10 +4,13 @@ Newly packed font files combining open-source typefaces [Inter](https://github.c
 
 ### Changelog
 
-- **1.0.1** 
+**1.0.2**
+ - Updated fanart.
+
+**1.0.1**
  - Fixes for Kodi Addon-Checker fail.
 
-- **1.0.0** 
+**1.0.0** 
  - Initial release.
 
 ### License

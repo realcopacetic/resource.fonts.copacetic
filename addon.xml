@@ -8,7 +8,7 @@
     
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <license>SIL OPEN FONT LICENSE Version 1.1</license>
+        <license>OFL-1.1</license>
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
