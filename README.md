@@ -4,14 +4,17 @@ Newly packed font files combining open-source typefaces [Inter](https://github.c
 
 ### Changelog
 
+**1.0.3**
+- Fixed extension point for kodi.resource.font.
+
 **1.0.2**
- - Updated fanart.
+- Updated fanart.
 
 **1.0.1**
- - Fixes for Kodi Addon-Checker fail.
+- Fixes for Kodi Addon-Checker fail.
 
 **1.0.0** 
- - Initial release.
+- Initial release.
 
 ### License
 ---
