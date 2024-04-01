@@ -3,6 +3,10 @@
 Newly packed font files combining open-source typefaces [Inter](https://github.com/rsms/inter) for western character sets (Latin, Greek, etc) and [Noto Sans CJK](https://github.com/notofonts/noto-cjk) for CJK characters.
 
 ### Changelog
+**1.0.5**
+- Removed sub-folder structure due to issue on some configurations where  /KR/ and /SC/ sub folder structure would make fonts unavailable https://github.com/realcopacetic/resource.fonts.copacetic/issues/4
+- Added medium weight to Inter + Noto Sans fontsets for Korean (KR) and Simplified Chinese (SC) https://github.com/realcopacetic/resource.fonts.copacetic/issues/5
+
 **1.0.4**
 - Changed folder structure to avoid '+' for Linux https://github.com/realcopacetic/resource.fonts.copacetic/issues/2
 - Added support for Simplified Chinese https://github.com/realcopacetic/resource.fonts.copacetic/issues/3
